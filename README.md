@@ -1,4 +1,4 @@
-# 🌍 Global Street Food Insights (SQL + Python + Excel + Power BI)
+# 🌍 global-street-food-insights
 
 This project analyzes global street food data using a full-stack data workflow — from raw data cleaning in **SQL**, preprocessing and analysis in **Python (Pandas)**, quick checks in **Excel**, to final visualization with an interactive **Power BI dashboard**. The goal is to understand trends, popular cuisines, regional preferences, and pricing patterns.
 
