@@ -22,21 +22,6 @@ This project analyzes global street food data using a full-stack data workflow �
 
 ---
 
-## 📁 Project Structure
-
-```
-Global_street_food_insights/
-│
-├── street_food_raw_data.xlsx           # Source/raw data
-├── global_food_cleaning.sql           # SQL scripts for data prep
-├── global_food_analysis.ipynb         # Python analysis using Pandas
-├── street_food_dashboard.pbix         # Power BI dashboard file
-├── Dashboard_Screenshots/             # Dashboard previews
-└── README.md
-```
-
----
-
 ## 📊 Key Analyses Performed
 
 - 🌎 Top countries by number of vendors  
